@@ -1,1 +1,2 @@
-# C-21-Bounceoff-Algorithm
+# collisionAlgorithm
+Algorithm to detect collision between two objects
